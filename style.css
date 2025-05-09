@@ -58,9 +58,11 @@ div.pea > img {
     margin: auto;
     padding: 10px;
     width: 250px;
+    justify-content: center;
 }
 .legenda {
-    text-indent: 120px;
+    text-align: center;
+    text-indent: -80px;
     margin-top: -25px;
     font-size: 1em;
 }
