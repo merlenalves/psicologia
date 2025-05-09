@@ -49,7 +49,7 @@ img.imagem {
 div.pea {
     display: flex;
     flex-flow: column;
-    
+    margin: auto;
     padding: 10px;
     justify-content: center;
     width: 380px;
