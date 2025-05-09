@@ -7,8 +7,7 @@
 body {
     background: url('imagens/fundo2.jpg') no-repeat fixed; 
     background-size: cover;
-    width: 98.45vw;
-    height: 100vh;
+ 
     display: flex;
     flex-direction: column;
 
@@ -143,7 +142,7 @@ footer > p > a {
 }
 div.tela {
     background-color: rgba(255, 255, 255, 0.623);
-    width: 450px;
+    width: 380px;
     display: flex;
     margin: auto;
     padding: 10px;
