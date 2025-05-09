@@ -41,6 +41,7 @@ article > p {
 img.imagem {
     display: flex;
     flex-flow: row wrap;
+    margin: auto;
     width: 380px;
     border-radius: 15px;
     box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.493);
