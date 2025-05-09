@@ -51,7 +51,6 @@ div.pea {
     flex-flow: column;
     margin: auto;
     padding: 10px;
-    justify-content: center;
     width: 380px;
 }
 div.pea > img {
@@ -90,6 +89,7 @@ div.botao > a:hover {
     transition: 0.6s;
 }
 div.container {
+    width: 400px;
     margin: auto;
     padding: 30px 0px;
     background-color: rgba(128, 128, 128, 0.753);
@@ -104,6 +104,7 @@ div.item {
     padding: 10px;
 }
 div.item > a > img {
+    width: 180px;
     border-radius: 30px;
     box-shadow: 1px 1px 8px black;
 }
