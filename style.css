@@ -129,6 +129,10 @@ section > h2 {
     padding: 30px;
     text-align: center;
 }
+section > p {
+    font-size: 1.2em;
+    padding: 20px;
+}
 section > ul {
     padding-left: 30px;
 }
